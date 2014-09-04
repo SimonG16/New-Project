@@ -3,6 +3,28 @@
   <layers>
     <layer id="id571126">
       <actors>
+        <actor id="id605832" prototype="id704085">
+          <attributes>
+            <point id="position">
+              <real id="x">238.5</real>
+              <real id="y">162</real>
+            </point>
+            <size id="size">
+              <real id="width">480</real>
+              <real id="height">320</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
         <actor id="id219505" prototype="id876595">
           <attributes>
             <point id="position">
@@ -21,6 +43,28 @@
                 <integer id="tileWidth" name="tileWidth">0</integer>
                 <integer id="tileHeight" name="tileHeight">0</integer>
               </attributes>
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id300705" prototype="id133913">
+          <attributes>
+            <point id="position">
+              <real id="x">746.5</real>
+              <real id="y">150</real>
+            </point>
+            <size id="size">
+              <real id="width">512</real>
+              <real id="height">256</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
             </graphics>
             <motion />
             <physics>
