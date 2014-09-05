@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<actor id="id704085" PGFVersion="0.19" GSCVersion="0.10.0">
+<actor id="id225435" PGFVersion="0.19" GSCVersion="0.10.0">
   <attributes>
     <text id="name">Background</text>
     <real id="time">0</real>
     <point id="position">
-      <real id="x">0</real>
-      <real id="y">0</real>
+      <real id="x">100</real>
+      <real id="y">100</real>
     </point>
     <size id="size">
       <real id="width">480</real>
@@ -21,6 +21,7 @@
     <image id="image">sunset</image>
     <text id="tags" />
     <boolean id="preloadArt">true</boolean>
+    <angle id="id334876" name="">0.0</angle>
   </attributes>
   <behaviors />
   <aspects>

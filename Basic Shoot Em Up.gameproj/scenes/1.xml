@@ -3,11 +3,34 @@
   <layers>
     <layer id="id571126">
       <actors>
-        <actor id="id605832" prototype="id704085">
+        <actor id="id962954" prototype="id864503">
           <attributes>
             <point id="position">
-              <real id="x">238.5</real>
-              <real id="y">162</real>
+              <real id="x">727.5</real>
+              <real id="y">265</real>
+            </point>
+            <size id="size">
+              <real id="width">128</real>
+              <real id="height">64</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <text id="name">Actor 1 Copy 1</text>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id374260" prototype="id225435">
+          <attributes>
+            <point id="position">
+              <real id="x">240</real>
+              <real id="y">160</real>
             </point>
             <size id="size">
               <real id="width">480</real>
@@ -59,6 +82,31 @@
             <size id="size">
               <real id="width">512</real>
               <real id="height">256</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes>
+                <integer id="tileWidth" name="tileWidth">0</integer>
+                <integer id="tileHeight" name="tileHeight">0</integer>
+              </attributes>
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id104315" prototype="id864503">
+          <attributes>
+            <point id="position">
+              <real id="x">582.5</real>
+              <real id="y">263</real>
+            </point>
+            <size id="size">
+              <real id="width">128</real>
+              <real id="height">64</real>
             </size>
             <angle id="rotation">0</angle>
           </attributes>
