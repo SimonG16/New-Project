@@ -84,6 +84,9 @@
     <image name="sunset">
       <file name="sunset.png" size="8203" />
     </image>
+    <image name="cube">
+      <file name="cube.png" size="3342" />
+    </image>
   </images>
   <behaviors />
 </assets>
